@@ -1,16 +1,7 @@
 ![Captura](https://mathewsachin.github.io/Captura/assets/Banner.png)
 
-[![Master Build Status](https://img.shields.io/appveyor/ci/MathewSachin/Captura/master.svg?style=flat-square&logo=appveyor)](https://ci.appveyor.com/project/MathewSachin/Captura)
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE.md)
-[![Chat](https://img.shields.io/badge/chat-on_gitter-yellow.svg?style=flat-square&logo=gitter)](https://gitter.im/MathewSachin/Captura)
-
-[![Downloads](https://img.shields.io/github/downloads/MathewSachin/Captura/total.svg?style=flat-square)](https://mathewsachin.github.io/Captura/download)
-[![PayPal Donate](https://img.shields.io/badge/donate-PayPal-orange.svg?style=flat-square&logo=paypal)](https://mathewsachin.github.io/Captura/donate)
-[![Crowdin](https://d322cqt584bo4o.cloudfront.net/captura/localized.svg)](https://crowdin.com/project/captura)
-
-&copy; [Copyright 2019](LICENSE.md) Mathew Sachin
-
-:link: <https://mathewsachin.github.io/Captura/>
+![[Large AGPLv3 logo with “Free as in Freedom”]](https://www.gnu.org/graphics/agplv3-with-text-162x68.png)
+[![AGPL-3.0 License](https://img.shields.io/badge/license-AGPL--3.0-blue.svg?style=flat-square)](LICENSE.md)
 
 Capture Screen, WebCam, Audio, Cursor, Mouse Clicks and Keystrokes.
 
@@ -35,12 +26,6 @@ Capture Screen, WebCam, Audio, Cursor, Mouse Clicks and Keystrokes.
 
 Portable and Setup builds for the latest release can be downloaded from [here][latest].
 
-### Chocolatey
-
-```powershell
-choco install captura -y
-```
-
 ### Dev Builds
 
 See the [Continuous Integration page](docs/CI.md).
@@ -56,6 +41,6 @@ See the [Continuous Integration page](docs/CI.md).
 
 ## License
 
-[MIT License](LICENSE.md)
+[AGPL-3.0 License](LICENSE.md)
 
 Check [here](licenses/) for licenses of dependencies.
