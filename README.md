@@ -2,6 +2,7 @@
 
 ![[Large AGPLv3 logo with “Free as in Freedom”]](https://www.gnu.org/graphics/agplv3-with-text-162x68.png)
 [![AGPL-3.0 License](https://img.shields.io/badge/license-AGPL--3.0-blue.svg?style=flat-square)](LICENSE.md)
+[![CLA assistant](https://cla-assistant.io/readme/badge/WilczCom/wCaptura)](https://cla-assistant.io/WilczCom/wCaptura)
 
 Capture Screen, WebCam, Audio, Cursor, Mouse Clicks and Keystrokes.
 
